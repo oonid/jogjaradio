@@ -1,15 +1,15 @@
 JogjaRadio
 ==========
 
-HTML5 Mobile Application with List and Maps of Radio Streaming in Jogjakarta.
-The app created with PhoneGap platform.
+HTML5 Mobile Application with List and Maps of Radio Streaming in Jogjakarta.<br/>
+The app created with PhoneGap platform.<br/>
 
-by Oon Arfiandwi
-http://oo.or.id
-http://twitter.com/OonID
+by Oon Arfiandwi <br/>
+http://oo.or.id <br/>
+http://twitter.com/OonID <br/>
 
-Currently, I only tested the application in Android platform.
-Just download the www directory and then put into the assets directory.
+Currently, I only tested the application in Android platform.<br/>
+Just download the www directory and then put into the assets directory.<br/>
 
 the source code license is <a href="http://opensource.org/licenses/MIT">MIT</a>
 
